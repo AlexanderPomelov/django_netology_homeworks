@@ -15,3 +15,14 @@ django_first_task/.idea/inspectionProfiles/Project_Default.xml
 django_first_task/.idea/inspectionProfiles/profiles_settings.xml
 .DS_Store
 django_first_task/.idea/django_first_task.iml
+django_second_task/recipes/recipes/__pycache__/__init__.cpython-311.pyc
+django_second_task/recipes/recipes/__pycache__/settings.cpython-311.pyc
+django_second_task/recipes/recipes/__pycache__/urls.cpython-311.pyc
+django_second_task/recipes/recipes/__pycache__/wsgi.cpython-311.pyc
+django_second_task/recipes/calculator/migrations/__pycache__/__init__.cpython-311.pyc
+*.pyc
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/djangp.iml
