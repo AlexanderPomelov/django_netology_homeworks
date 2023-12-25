@@ -20,7 +20,7 @@ class StockSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Stock
-        fieklds = ['address', 'positions']
+        fields = ['address', 'positions']
 
 
     def create(self, validated_data):
